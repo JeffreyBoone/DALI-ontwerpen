@@ -1,0 +1,2 @@
+In het LIOR deel van de projectenmodule meerdere eisen/subonderwerpen/onderwerpen/gebieden tegelijkertijd kunnen selecteren (zoals men vanuit Windows gewend is met de shift en ctrl toetsen) en naar het Project PvE slepen. 
+-------------------------------------------------------------------------------------------------------------

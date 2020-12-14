@@ -1,0 +1,3 @@
+Eerder dan bij raadplegen eis hoofdstukeigenaren zichtbaar maken. Het is momenteel niet in een-oog-opslag duidelijk binnen de LIOR welke eigenaren er aan een hoofdstuk gekoppeld zijn. Pas bij raadplegen en aanklikken van een eis, wordt in de rechterkolom de eigenaar getoond. Het is wenselijk om de eigenaren van de hoofdstuk eerder zichtbaar te hebben bij openen van de LIOR toepassing.
+---------------------------------------------------------------------------------------------------------------
+waarneer een eis geselecteerd wordt, opent de rechterdrawer met daarin info over de eis (right closed.png)

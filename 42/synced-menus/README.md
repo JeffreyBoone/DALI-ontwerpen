@@ -1,0 +1,1 @@
+werkende demo voor een multiselect tussen 2 synced menus

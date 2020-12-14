@@ -1,0 +1,3 @@
+Mogelijk maken om een thema zoals duurzaamheid of leefbaarheid te koppelen aan een eis (extra kolom) en hier vervolgens ook een selectie op kunnen maken. Extra is een icoontje aan een eis toevoegen die het thema afbeeld.
+------------------------------------------------------------------------------------------------------------
+in het filtermenu een extra tab maken voor de duurzaamheidthemas (Thema+EisLMenu.jpg)
